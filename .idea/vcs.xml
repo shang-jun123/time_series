@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Air_Pollution_Forcast_Beijing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CNN-Long-Term-Prediction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LSTM-SVM-RF-time-series" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/STOCKS_RandomForestRegressor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Stock-price-prediction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TrafficFlowPrediction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/time_series" vcs="Git" />
+  </component>
+</project>
